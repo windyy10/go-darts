@@ -5,7 +5,7 @@
 ## 关于 darts
 This is a GO implementation of Double-ARray Trie System. It's a clone of the [C++ version](http://chasen.org/~taku/software/darts/)
 
-## 示例 详细使用参考[example](./example)
+## 示例
 
 ```go
 package main
